@@ -1,0 +1,9 @@
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\bin\Debug\Proyecto_JC_Distribuidores.exe.config
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\bin\Debug\Proyecto_JC_Distribuidores.exe
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\bin\Debug\Proyecto_JC_Distribuidores.pdb
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\obj\Debug\Proyecto_JC_Distribuidores.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\obj\Debug\Proyecto_JC_Distribuidores.Form1.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\obj\Debug\Proyecto_JC_Distribuidores.Properties.Resources.resources
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\obj\Debug\Proyecto_JC_Distribuidores.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\obj\Debug\Proyecto_JC_Distribuidores.exe
+C:\Users\Daniela\source\repos\Proyecto_JC_Distribuidores\obj\Debug\Proyecto_JC_Distribuidores.pdb
